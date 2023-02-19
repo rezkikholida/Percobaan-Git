@@ -3,3 +3,5 @@
 - Ember
 - Panci
 - Gunting
+- Pisau
+- Cologne
